@@ -1,2 +1,4 @@
 # GU_python_1911
-student repo
+Roman Ryzhkov
+
+romka_ne@mail.ru
