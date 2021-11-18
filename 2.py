@@ -47,3 +47,7 @@ def currency_rates(currency):
 print(currency_rates('GBP'))
 print(currency_rates('eur'))
 print(currency_rates('usd'))
+
+# 1 Фунт стерлингов Соединенного королевства 98.02 руб., 2021-11-19
+# 1 Евро 82.26 руб., 2021-11-19
+# 1 Доллар США 72.60 руб., 2021-11-19
